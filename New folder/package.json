@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Test package",
+  "main": "index.js",
+  "dependencies": {
+	"momnet": "^2.29.1",
+	"axios": "^2.29.1",
+	"kakakaakaaa11": "99.1.11",
+	"express": "^2.29.1",
+	"veryPrivateE2ETest": "2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
